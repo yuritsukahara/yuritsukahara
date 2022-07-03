@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @yuritsukahara
-- 👀 I’m interested in math, python, js, node, react.
+- 👋 Hi, I’m Yuri | FullStack Student.
+- 🧑‍🎓 I’m graduated in math.
+- 👀 I'm interested, python, js, node, react.
 - 🌱 I’m currently learning to code.
 - 💞️ I’m looking to collaborate on opensource projects.
 - 📫 reach me at yuritsukahara@outlook.com
